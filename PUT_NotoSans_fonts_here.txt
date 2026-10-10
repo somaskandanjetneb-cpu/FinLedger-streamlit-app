@@ -1,0 +1,1 @@
+Copy NotoSans-Regular.ttf here. Noto Sans supports the Indian ₹ glyph in ReportLab PDFs.
